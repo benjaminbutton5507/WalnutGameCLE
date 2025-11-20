@@ -1,4 +1,4 @@
-@echo off
+
 
 :check
 if not "%~1"=="" (
